@@ -2,7 +2,7 @@
 
 A minimal and clean Todo List application built with **React + Vite**, powered by **Bun** for blazing-fast performance. Easily add, complete, and manage daily tasks with a live clock display.
 
-![Todo App Screenshot](./path-to-image.png)
+![Todo App Screenshot](image.png)
 
 ## 🚀 Features
 
